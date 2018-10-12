@@ -21,7 +21,7 @@ namespace AMSDemo
         {
             SetDIALSTimer();
             SetOPLDTimer();
-//            SetDIALSTimer();123
+//            SetDIALSTimer();
             CreateWebHostBuilder(args).Build().Run();            
         }
 
